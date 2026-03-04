@@ -1,6 +1,6 @@
 # Payment Method Analysis for Taxi Revenue Enhancement 
 
-
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/de1ad78a-ec9c-4215-8baf-a29e5223cbe9" />
 
 
 link - [[Payment-Method-Analysis-for-Taxi-Revenue-Enhancement](https://payment-method-analysis-for-taxi-revenue-enhancement.streamlit.app/)
